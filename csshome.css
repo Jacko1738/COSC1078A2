@@ -5,7 +5,7 @@
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #d3d3d3;
+  background-color: grey;
 }
 #bodytext{
 	margin-top: 30px;
@@ -117,7 +117,7 @@ body {
 }
 
 
-.dropdown-content a:hover {background-color: blue;}
+.dropdown-content a:hover {background-color: black;}
 
 
 .dropdown:hover .dropdown-content {display: block;}
