@@ -21,7 +21,12 @@ li a:hover {
 	font-size:40px;
 }
 
-
+#subheadings{
+	margin-top: -500px;
+	margin-left: -200px;
+	margin-right: 300px;
+	font-size:30px;
+}
 
 
 #mainbox{
