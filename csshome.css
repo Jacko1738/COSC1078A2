@@ -117,7 +117,7 @@ body {
 }
 
 
-.dropdown-content a:hover {background-color: grey;}
+.dropdown-content a:hover {background-color: blue;}
 
 
 .dropdown:hover .dropdown-content {display: block;}
